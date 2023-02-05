@@ -297,10 +297,10 @@ h1{
 
     .navigation_auth{
         content: url("img/profile.svg");
-        padding-left: 15px;
+        padding-left: 5%;
+        padding-right: 5%;
         position: relative;
         left: 29%;
-    
     }
 
     .menu_btn {
