@@ -177,7 +177,6 @@ h1{
     width: 34px;
     height: 26px;
     cursor: pointer;
-    top: 10%;
     right: 2%;
 }
 
@@ -209,7 +208,7 @@ h1{
 .menu_box {
     position: fixed;
     visibility: hidden;
-    top: 20%;
+    top: 10%;
     right: 2%;
     width: 307px;
     height: 322px;
