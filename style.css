@@ -5,6 +5,9 @@
     vertical-align: middle;
     padding: 10px;
 }
+.menu_toggle{
+    right: 2%;
+}
 
 .logo_text{
     font-family: 'Vibur';
