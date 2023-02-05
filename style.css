@@ -297,6 +297,7 @@ h1{
 
     .navigation_auth{
         content: url("img/profile.svg");
+        padding-left: 10px;
         position: relative;
         left: 31%;
     
@@ -307,7 +308,8 @@ h1{
         width: 25px;
         height: 26px;
         cursor: pointer;
-        right: 0;
+        top: 3.7%;
+        right: 5px;
     }
 
     .menu_btn > span,
@@ -398,15 +400,3 @@ h1{
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
